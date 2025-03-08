@@ -1,0 +1,19 @@
+<div class="container__big-card">
+    <div class="big-card__photo">
+        <img src="https://imagenes.elpais.com/resizer/v2/A5OBV2MXQ5HYLD7D26VJUSSXD4?auth=c4dc2a0452cf545746ee2c42e913c492ec1332eec8ec5f5d4d6df71846770b3e&width=1200" 
+            alt="" 
+            height="300px"
+            width="500px"
+            srcset="">
+
+    </div>
+    <div class="big-card__title">
+        <h1> <a [routerLink]="['content', contentId]">{{ cardTitle }}</a></h1>
+    </div>
+
+    <div class="big-card__descripition">
+        <p>
+            {{ cardDescription }}
+        </p>
+    </div>
+</div>
