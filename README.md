@@ -1,6 +1,6 @@
 # Projeto Blog Angular
 
-O seguinte projeto teve como objetivo criar um blog de moda utilizando o framework Angular, construindo componentes e organizando o projeto de forma eficiente.
+O seguinte projeto teve como objetivo criar um blog da vitória do filme "Ainda estou aqui" no oscar utilizando o framework Angular, construindo componentes e organizando o projeto de forma eficiente.
 
 ## Tecnologias Utilizadas:
 
